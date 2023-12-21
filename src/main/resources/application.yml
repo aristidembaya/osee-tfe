@@ -1,0 +1,7 @@
+jira:
+  secret: ATATT3xFfGF0o85-RRatzmtXshXYj4JlDHQWXoEc2FRM7c0wvuHeNXivfsFZq1Wr7q4syB_wAD9d90cz950-tniH1SJlLfX3-iaXkmjqEp9l7Ckgqen-G_PFjN8zvS0USX4__OTkH_vhtPXa07i5iUK9yDxJ0XVcKeaEp5GqrADKJB3uaTf-LLs=DF5DF8DB
+  user-name: oseeokb2000@gmail.com
+  base-url: https://apicreation.atlassian.net
+  ticket-url: /rest/api/2/issue
+server:
+  port: 9095
